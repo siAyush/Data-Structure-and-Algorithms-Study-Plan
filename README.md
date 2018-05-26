@@ -20,7 +20,7 @@ To learn Python I refer this playlist by Corey Schafer [Learn-Python](https://ww
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 Big-O measures the run time of algorithm as the size of input data increases.
--[Big-O](https://www.youtube.com/watch?v=i5zKiVIhiS0)
--[Complexity Theory Basics](https://www.udemy.com/complexity-theory-basics/learn/v4/overview)
+[Big-O](https://www.youtube.com/watch?v=i5zKiVIhiS0)
+[Complexity Theory Basics](https://www.udemy.com/complexity-theory-basics/learn/v4/overview)
 
  
