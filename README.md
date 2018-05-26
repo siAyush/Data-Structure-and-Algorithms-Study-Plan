@@ -6,7 +6,7 @@ This is a study plan for Data Structure &amp; Algorithms.
 ## Programming Language 
 Basically you can use any Programming Language  for Data-Structure-Algorithms but here I'm using Python.
 
-### Python
+## Python
 To learn Python I refer this playlist by Corey Schafer [Learn-Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 ## Books
