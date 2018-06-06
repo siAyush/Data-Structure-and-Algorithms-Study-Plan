@@ -8,6 +8,7 @@ Basically you can use any Programming Language  for Data-Structure-Algorithms bu
 
 ## Python
 To learn Python this playlist by Corey Schafer [Learn-Python-1](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
 To learn Python this playlist by Sendex [Learn-Python-2](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 ## Books
