@@ -7,7 +7,8 @@ This is a study plan for Data Structure &amp; Algorithms.
 Basically you can use any Programming Language  for Data-Structure-Algorithms but here I'm using Python.
 
 ## Python
-To learn Python I refer this playlist by Corey Schafer [Learn-Python](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+To learn Python this playlist by Corey Schafer [Learn-Python-1](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+To learn Python this playlist by Sendex [Learn-Python-2](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 ## Books
 - [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
@@ -29,5 +30,19 @@ Big-O measures the run time of algorithm as the size of input data increases.
 - [Asymptotic Notations](https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/)
 - [Space Complexity](https://www.geeksforgeeks.org/g-fact-86/)
 - [Amortized Analysis ](https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction/)
+
+
+## Array / List 
+Array/List is collection of items in a sequential manner. And items of array/list access by indexing.
+### Videos
+- [Array/List](https://www.youtube.com/watch?v=HdFG8L1sajw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=3&t=0s)
+- [Multidimensional list](https://www.youtube.com/watch?v=Go-FfGhxbSM&feature=youtu.be&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+### Documentation
+- [Introdunction to Array/List](https://www.geeksforgeeks.org/introduction-to-arrays/)
+- [Offical Documentation](https://docs.python.org/3/tutorial/datastructures.html)
+- [Multidimensional list](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
+### Problems
+- [Problems on List by Hackerrank](https://www.hackerrank.com/domains/data-structures/arrays)
+- [Problems on List by Hackerearth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/)
 
  
