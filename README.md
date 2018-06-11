@@ -17,7 +17,7 @@ To learn Python this playlist by Sendex [Learn-Python-2](https://www.youtube.com
     - I loved this book. It covered everything and more.
     
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-    - This book is a great ,but won't teach you how to write good code. You have to be able to code a decent solution efficiently, aka CLR, sometimes CLRS, because Stein was late to the game
+    - This book is a great ,but won't teach you how to write good code.
     
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
