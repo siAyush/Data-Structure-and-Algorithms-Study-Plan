@@ -17,8 +17,12 @@ To learn Python this playlist by Sendex [Learn-Python-2](https://www.youtube.com
     - I loved this book. It covered everything and more.
     
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-    - This book is a great ,but won't teach you how to write good code.
-    
+    - This book is a great ,but won't teach you how to write good code
+## Problems
+Practice what you learn.
+- [Hackerrank](https://www.hackerrank.com)
+- [Hackerearth](https://www.hackerearth.com)
+- [CodeChef](https://www.codechef.com)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 Big-O measures the run time of algorithm as the size of input data increases.
@@ -42,8 +46,6 @@ Array/List is collection of items in a sequential manner. And items of array/lis
 - [Introdunction to Array/List](https://www.geeksforgeeks.org/introduction-to-arrays/)
 - [Offical Documentation](https://docs.python.org/3/tutorial/datastructures.html)
 - [Multidimensional list](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
-### Problems
-- [Problems on List by Hackerrank](https://www.hackerrank.com/domains/data-structures/arrays)
-- [Problems on List by Hackerearth](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/)
+
 
  
