@@ -11,6 +11,8 @@ To learn Python this playlist by Corey Schafer [Learn-Python-1](https://www.yout
 
 To learn Python this playlist by Sendex [Learn-Python-2](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
+Automate the Boring Stuff with Python [Python](https://automatetheboringstuff.com/)
+
 ## Books
 - [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
@@ -23,6 +25,18 @@ Practice what you learn.
 - [Hackerrank](https://www.hackerrank.com)
 - [Hackerearth](https://www.hackerearth.com)
 - [CodeChef](https://www.codechef.com)
+
+## Introduction to Algorithm
+- [What is an algorithm?](http://btechsmartclass.com/DS/U1_T1.html)
+- [Performance Analysis](http://btechsmartclass.com/DS/U1_T2.html)
+- [Space Complexity](http://btechsmartclass.com/DS/U1_T3.html)
+- [Time Complexity](http://btechsmartclass.com/DS/U1_T4.html)
+- [Asymptotic Notation](http://btechsmartclass.com/DS/U1_T5.html)
+
+## Introduction to Data Structures
+- [Introduction to Data Structures](http://btechsmartclass.com/DS/U1_T9.html)
+- [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+- [Udemy Course for algorithms and data structures](https://www.udemy.com/algorithms-and-data-structures-in-python)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 Big-O measures the run time of algorithm as the size of input data increases.
@@ -46,6 +60,17 @@ Array/List is collection of items in a sequential manner. And items of array/lis
 - [Introdunction to Array/List](https://www.geeksforgeeks.org/introduction-to-arrays/)
 - [Offical Documentation](https://docs.python.org/3/tutorial/datastructures.html)
 - [Multidimensional list](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/)
+
+## Stack
+Stack is Linear Data Structures.Stack works on principle Last in First Out (FILO).
+### Video
+- [Stacks](https://www.youtube.com/watch?v=F1F2imiOJfk)
+### Documentation 
+- [Stack Intro](https://www.geeksforgeeks.org/stack-data-structure-introduction-program)
+- [Stack ADT](http://btechsmartclass.com/DS/U2_T1.html)
+- [More on Stack](https://www.geeksforgeeks.org/stack-data-structure/#design)
+### Implementation
+- [Implementation of Stack](https://github.com/siAyush/Data-structures-and-Algorithms/blob/master/Stack/stack.py)
 
 
  
