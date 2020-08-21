@@ -22,9 +22,12 @@ Automate the Boring Stuff with Python [Python](https://automatetheboringstuff.co
     - This book is a great ,but won't teach you how to write good code
 ## Problems
 Practice what you learn.
+- [GeeksForGeeks](https://practice.geeksforgeeks.org/topic-tags/?ref=home)
+- [LeetCode](https://leetcode.com)
 - [Hackerrank](https://www.hackerrank.com)
 - [Hackerearth](https://www.hackerearth.com)
 - [CodeChef](https://www.codechef.com)
+- [CodeForces](https://codeforces.com)
 
 ## Introduction to Algorithm
 - [What is an algorithm?](http://btechsmartclass.com/DS/U1_T1.html)
@@ -34,7 +37,6 @@ Practice what you learn.
 - [Asymptotic Notation](http://btechsmartclass.com/DS/U1_T5.html)
 
 ## Introduction to Data Structures
-- [Introduction to Data Structures](http://btechsmartclass.com/DS/U1_T9.html)
 - [Data Structures Playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [Udemy Course for algorithms and data structures](https://www.udemy.com/algorithms-and-data-structures-in-python)
 
